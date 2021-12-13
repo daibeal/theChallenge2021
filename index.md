@@ -1,30 +1,15 @@
-## Welcome to GitHub Pages
+## Polytechnic University of Valencia
 
-You can use the [editor on GitHub](https://github.com/daibeal/theChallenge2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Los participantes se dividirán en 10 equipos y tendrán que prototipar y presentar un producto o servicio basado en tecnología que resuelva alguno de los retos relacionados con los tracks de Valencia Digital Summit: City, Life, Growth, Corporation y Knowledge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Schedule
 
-### Markdown
+• 21 de noviembre: cierre de inscripciones.     
+• 22 de noviembre al 10 diciembre: formación de equipos y asignación de retos.    
+• 14 de diciembre: THE CHALLENGE (de 9:00h a 21:00h) en las instalaciones de UPV.
+• 16 de diciembre: Pitch finalistas y entrega de premios en la ceremonia de cierre de Valencia Digital Summit.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
