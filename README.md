@@ -83,10 +83,10 @@ Distributed under the GNU License. See `LICENSE.txt` for more information.
 
 Dairon Andrés Benites Aldaz - [@daibeal26](https://twitter.com/daibeal26) - daibeal@upv.edu.es <br>
 Participant 2 - [participant2](/) - email <br>
-Participant 3 - [participant2](/) - email <br>
-Participant 4 - [participant2](/) - email <br>
-Participant 5 - [participant2](/) - email <br>
-Participant 6 - [participant2](/) - email <br>
+Participant 3 - [participant3](/) - email <br>
+Participant 4 - [participant4](/) - email <br>
+Participant 5 - [participant5](/) - email <br>
+Participant 6 - [participant6](/) - email <br>
 
 Project Link: [https://github.com/daibeal/theChallenge2021](https://github.com/daibeal/theChallenge2021)
 
