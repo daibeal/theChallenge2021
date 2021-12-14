@@ -1,10 +1,3 @@
-/**
-* Template Name: KnightOne - v4.7.0
-* Template URL: https://bootstrapmade.com/knight-simple-one-page-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -14,7 +7,7 @@ body {
 }
 
 a {
-  color: #009961;
+  color: white;
   text-decoration: none;
 }
 
@@ -138,7 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Get Startet Button */
 .get-started-btn {
   margin-left: 25px;
-  background: #009961;
+  background: #00c4da;
   color: #fff;
   border-radius: 50px;
   padding: 8px 25px 9px 25px;
@@ -148,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
   display: inline-block;
 }
 .get-started-btn:hover {
-  background: #00b371;
+  background: white;
   color: #fff;
 }
 @media (max-width: 992px) {
@@ -370,7 +363,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(https://valenciadigitalsummit.com/wp-content/uploads/2021/09/Header_1.1.jpg);
+  background: url(https://media.wsimag.com/attachments/9525a03861f05728fccdf321e237d2a66b52aa37/store/fill/2460/1384/403e3c3c6f557a89edf9263164f4556b1f887688fce2c81ad75b03fbb690/Ciudad-de-las-Artes-y-las-Ciencias-de-Valencia.jpg);
   background-size: cover;
   position: relative;
 }
@@ -404,7 +397,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 94px;
   height: 94px;
   margin: 0 auto;
-  background: radial-gradient(#009961 50%, rgba(0, 153, 97, 0.4) 52%);
+  background: radial-gradient(#00c4da 50%, rgb(6, 17, 60) 52%);
   border-radius: 50%;
   display: block;
   overflow: hidden;
@@ -441,13 +434,13 @@ h1, h2, h3, h4, h5, h6 {
   animation-timing-function: steps;
   opacity: 1;
   border-radius: 50%;
-  border: 5px solid rgba(0, 153, 97, 0.7);
+  border: 5px solid white;
   top: -15%;
   left: -15%;
   background: rgba(198, 16, 0, 0);
 }
 #hero .play-btn:hover::after {
-  border-left: 15px solid #009961;
+  border-left: 15px solid #05375c;
   transform: scale(20);
 }
 #hero .play-btn:hover::before {
