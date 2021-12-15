@@ -131,7 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Get Startet Button */
 .get-started-btn {
   margin-left: 25px;
-  background: #00c4da;
+  background: #009961;
   color: #fff;
   border-radius: 50px;
   padding: 8px 25px 9px 25px;
@@ -363,7 +363,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(https://media.wsimag.com/attachments/9525a03861f05728fccdf321e237d2a66b52aa37/store/fill/2460/1384/403e3c3c6f557a89edf9263164f4556b1f887688fce2c81ad75b03fbb690/Ciudad-de-las-Artes-y-las-Ciencias-de-Valencia.jpg);
+  background: url(https://static.displate.com/857x1200/displate/2021-03-08/b56981cc33b43cdb1b73c2f051dc1457_d8e0550ef246592218a8d56b3047e5e7.jpg);
   background-size: cover;
   position: relative;
 }
